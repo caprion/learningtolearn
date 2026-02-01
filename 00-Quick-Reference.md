@@ -19,8 +19,7 @@ Simple prompts for daily learning interactions. Click subject headers for full d
 | **CCTV** | "Draw exactly what the room looked like in this scene. Add 3 captions." | Visualization |
 | **Gossip** | "How would a nosy neighbor describe what [Character] just did to their friend?" | Recall |
 | **Forgery** | "Write a sick note from [Character]. Use their exact words/slang so you don't get caught." | Style Analysis |
-| **Mumbai Remix** | "If this happened in India, what would they eat instead of Treacle Tart?" | Adaptation |
-| **Lie Detector** | "I'll tell you 3 things about the chapter. One is a lie. Catch me." | Active Listening |
+| **Cipher Wheel** | "Encode a secret summary of the chapter using your [Maker's Lab](06-Makers-Lab.md) wheel." | Play |
 
 ## [Science](02-Science.md)
 
@@ -37,5 +36,10 @@ Simple prompts for daily learning interactions. Click subject headers for full d
 | --- | --- | --- |
 | **Zoom Out** | "Visualize your bed. Now zoom out to Street -> City -> State -> Earth." | Bedtime |
 | **Breakfast Map** | "Rice needs water. Wheat needs dry land. Where did your Idli vs Roti come from?" | Mealtime |
-| **Straight Line** | "If you fly South from here, what is the first ocean/state you hit?" | Travel |
+| **Salt Map** | "Sculpt the mountains on your [Maker's Lab](06-Makers-Lab.md) map. Show where the river flows." | Project |
 | **Shadow Clock** | "Look at the tree shadow. Is it long or short? What time is it?" | Outdoors |
+
+## [The Maker's Lab](06-Makers-Lab.md)
+*   **Science:** Climbing Butterfly, Cartesian Diver, Straw Sprinkler.
+*   **Geography:** Salt Dough Relief Map, Rain Gauge.
+*   **English:** Cipher Wheel, Shadow Puppets.
