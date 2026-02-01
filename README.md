@@ -1,6 +1,6 @@
 # Learning Nudges
 
-A parent's facilitation guide for structured learning with 9-10 year olds (ICSE Class 4 level).
+A parent's facilitation guide for structured learning for young kids.
 
 ## Quick Start
 1. Open **[Quick Reference](00-Quick-Reference.md)** for one-line prompt summaries.
