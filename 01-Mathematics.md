@@ -13,6 +13,11 @@
 "This recipe for Maggi/Dal/Cake feeds 3 people. Tonight, 5 cousins are coming suitable guests (Total 8). Go get the ingredients/spoons."
 *   *Prompt:* "How much water do we need exactly? Use the real cups to show me. Is it double? Less than double?"
 
+> **Parent Self-Check:**
+> ✓ Child realizes 8 is NOT double of 3, and tries to figure out the actual multiplier (~2.67x)
+> ✗ Common shortcut: "Just double everything" — they're not thinking about the ratio
+> → **If stuck:** Simplify first: "What if 6 guests? That's exactly double. Now 8 is a bit more than double — how much more?"
+
 **The "Rotten Apple" (Percentages)**
 *Go to the fruit bowl/fridge.*
 *   *Prompt:* "If 2 of these 10 tomatoes were rotten, what percentage is lost? What if we bought 50 tomatoes and the 'rot rate' was the same?"
@@ -29,6 +34,11 @@
 *Dump a pile of coins and notes on the table.*
 *   *Setup:* "You are the shopkeeper. I am a rude customer."
 *   *Prompt:* "I bought milk for ₹32. I gave you a ₹500 note. You have NO ₹100 notes / NO ₹50 notes. Pay me back using this pile. Hurry, there is a line!"
+
+> **Parent Self-Check:**
+> ✓ Child says "₹468 change" and builds it from available denominations
+> ✗ Common mistake: Counting UP from ₹32 instead of subtracting from ₹500 (both are valid — counting up is actually a smart shopkeeper trick!)
+> → **If stuck:** Remove the constraint: "Ok, you DO have ₹100 notes. Now try."
 
 **The "Budget Birthday"**
 "You have exactly ₹2000 for a party. You need: Cake (₹500), Chips (₹20/pack), and Return Gifts (₹50/each). How many friends can you invite?
@@ -76,6 +86,11 @@
 **The "Broken Calculator"**
 "The '4' button on this calculator is broken. How do I calculate 24 x 6 using the other keys?"
 *   *Solutions:* (20+4)x6? No 4 allowed. (23+1)x6? (12x2)x6?
+
+> **Parent Self-Check:**
+> ✓ Any valid decomposition counts — (25-1)x6, (12x2)x6, (20+3+1)x6 are all wins
+> ✗ If they try to sneak a 4 in, grin and say "BZZT! Button's broken!"
+> → **If stuck:** Start easier: "The 5 button is broken. Calculate 15 x 2."
 
 **The "Gauss Sum"**
 "I want to add the numbers 1 to 20. I am too lazy to do 1+2+3... Is there a cheat code? (Hint: Pair the first and last)."

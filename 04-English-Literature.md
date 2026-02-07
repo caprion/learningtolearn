@@ -46,6 +46,11 @@
 *   *Roald Dahl:* How would a neighbor describe George making his "Medicine" ("Arre, that boy is mixing paint and shampoo!")
 *   *Wimpy Kid:* How would Greg's mom describe his latest disaster to her friend?
 
+> **Parent Self-Check:**
+> ✓ Child uses exaggeration, adds their own dialogue, changes tone to match the "gossiper" — they're retelling with personality
+> ✗ If they just summarize the plot flatly, nudge: "But aunties don't say 'he made medicine.' They say 'you won't BELIEVE what that boy did!'"
+> → **If stuck:** You go first. Do an over-the-top gossip version yourself. They'll want to top it.
+
 **The "Lie Detector"**
 "I'm going to tell you three things about the chapter. Two are true, one is a lie. Catch me!"
 *   *Tip:* Get small details wrong (e.g., "Swami wore a red coat" instead of "Malgudi Cricket Club cap"). Correcting the adult provides a dopamine hit.
@@ -63,6 +68,11 @@
 *   *Hagrid:* Use 'yer', 'blimey', and mention a dragon.
 *   *Geronimo Stilton:* Use *Italic fonts*, CHEESY metaphors, and exclamation marks!
 *   *Captain Underpants:* Misspell words and add a "Flip-o-rama" drawing.
+
+> **Parent Self-Check:**
+> ✓ Child mimics specific vocabulary, punctuation style, or speech patterns from the character — they've internalized the author's "voice"
+> ✗ If the note sounds like the child, not the character: "Would Hagrid really say 'I am feeling unwell'? What would HE say?"
+> → **If stuck:** Read a paragraph from the book together first. Ask: "What words does this character use that nobody else does?"
 
 **The "Translation" Board**
 "Translate this fancy sentence into:
